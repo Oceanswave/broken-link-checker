@@ -23,7 +23,6 @@ broken_links = set()
 exclude_patterns = [
     r'^.*?/login',
     r'^.*?/logout',
-    #r'https://mycommittees-dev.api.org',
 ]
 
 async def get_page_links(page, parent_url, url):
