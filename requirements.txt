@@ -1,0 +1,3 @@
+asyncio
+Playwright
+python-dotenv
